@@ -3,7 +3,7 @@ TrackOlap Server to Server API SDK
 
 ## Guide
 
-rackOlap is leader in location science and solutions for modern businesses, enterprises and educational institutions. Our Location science and Efficiency solution is a perfect fit for all type of business owners to improve their business operations whether assets, vehicles, employees or managing facilities. TrackOlap helps global enterprises to re imagine their businesses for the digital age. We seek to innovate in a way that minimizes the gap between our offerings and client needs, until both are at zero distance from one another.
+TrackOlap is leader in location science and solutions for modern businesses, enterprises and educational institutions. Our Location science and Efficiency solution is a perfect fit for all type of business owners to improve their business operations whether assets, vehicles, employees or managing facilities. TrackOlap helps global enterprises to re imagine their businesses for the digital age. We seek to innovate in a way that minimizes the gap between our offerings and client needs, until both are at zero distance from one another.
 
 API Documenation : https://trackolap.com/help/api-doc/
 
