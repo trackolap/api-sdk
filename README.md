@@ -16,6 +16,7 @@ tlp-cid : Customer ID . (Get under Admin section)
 tlp-t : System TimeStamp (till millsecond)
 
 tlp-k : System generated Aith Token based on following logic
+    
     Token = (Base 64 of (SHA 256 of (Customer Id + timestamp + Api URL + Post
     Data (optional in case of Get method) + API Key)))
     API Key & Customer ID can be access under admin section of Trackolap Web Portal.
