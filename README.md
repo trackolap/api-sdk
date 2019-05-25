@@ -28,17 +28,19 @@ This repo shows you how to integrate TrackOlap Api's into your system. It's a ex
 
 ## What You'll Need
 
-* Customerid - [Get it from here](https://platform.trackolap.com/) 
+* Customerid - [Get it from here](https://platform.trackolap.com/)  
 * API Secret - [Get it from here](https://platform.trackolap.com/)
+
+Also you can contact care@trackolap.com to get the customer id and API Secret.
 
 ## Supported platform
 * Any platform which can consume rest Based http request and response (in json).
 
-## Installing the Example
-1. [Get Customer and API Secrret ](https://platform.trackolap.com/) if you don't already have one.
+## Running the Example
+1. [Get Customer and API Secrret ](https://platform.trackolap.com/). Also you can contact care@trackolap.com to get the customer id and API Secret.
 2. Download the example (java) and import the project 
-3. Put the customer id and API secret
-4. Call the APITest class.
+3. Put the customer id and API secret in AssetTest -> setup Method.
+4. Call the AssetTest class.
 
 Have an issue? Please [contact us](mailto:care@trackpolap.com) or [create an issue on GitHub](https://github.com/trackolap/api-sdk/issues)
 
