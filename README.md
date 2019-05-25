@@ -1,4 +1,4 @@
-# trackolap-reach-sdk-android
+# TrackOlap API
 TrackOlap Server to Server API SDK
 
 ## Guide
@@ -21,8 +21,7 @@ tlp-k : System generated Aith Token based on following logic
     Data (optional in case of Get method) + API Key)))
     API Key & Customer ID can be access under admin section of Trackolap Web Portal.
 
-API key can be reset anytime from Trackolap web portal but Customer Id will always be static
-
+API key can be reset anytime from TrackOlap web portal but Customer Id will always be static
 
 
 This repo shows you how to integrate TrackOlap Api's into your system. It's a example built on Java. 
@@ -33,7 +32,7 @@ This repo shows you how to integrate TrackOlap Api's into your system. It's a ex
 * API Secret - [Get it from here](https://platform.trackolap.com/)
 
 ## Supported platform
-* Any platform which can consumer Rest Based http request and response.
+* Any platform which can consume rest Based http request and response (in json).
 
 ## Installing the Example
 1. [Get Customer and API Secrret ](https://platform.trackolap.com/) if you don't already have one.
